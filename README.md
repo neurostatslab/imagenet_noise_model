@@ -36,7 +36,7 @@ Note that this needs to be done with `cuda` loaded in order to make the jupyter 
 
 Clone this repository somewhere in your cluster home folder:
 ```
-git clone
+git clone https://github.com/neurostatslab/imagenet_noise_model.git
 ```
 
 ## How to use
